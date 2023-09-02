@@ -1,0 +1,10 @@
+D:\c#websockt\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\c#websockt\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\c#websockt\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\c#websockt\WindowsFormsApp1\bin\x64\Debug\Fleck.dll
+D:\c#websockt\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\c#websockt\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\c#websockt\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\c#websockt\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\c#websockt\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\c#websockt\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
