@@ -1,4 +1,9 @@
 # RFID课设
+## 系统架构
+<p align="center">
+    <img src="./images/framework.jpg" align="middle" width = "500" />
+  </p>
+  
 ## 使用器材
 高频14443A读写器、USB 转 232 虚拟串口、Mifare 1 S50卡
  <p align="center">
